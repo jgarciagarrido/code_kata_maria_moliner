@@ -6,7 +6,7 @@
 ## Instalación
 
 ```
-git clone
+git clone https://github.com/jgarciagarrido/code_kata_maria_moliner.git
 npm install
 npm install -g karma-cli
 ```

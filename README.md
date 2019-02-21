@@ -9,3 +9,7 @@
 git clone https://github.com/jgarciagarrido/code_kata_maria_moliner.git
 npm install
 npm install -g jasmine
+
+```
+## Descripción de la Kata
+http://codingdojo.org/kata/RomanNumerals/
